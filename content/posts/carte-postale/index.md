@@ -1,7 +1,7 @@
 +++
 title = "Carte Postale Sonore"
 date = "2023-04-26"
-draft = true
+draft = false
 pinned = false
 description = "Salut. Voilà ma carte audio sur mon lieu de prédilection, la cantine. "
 +++
