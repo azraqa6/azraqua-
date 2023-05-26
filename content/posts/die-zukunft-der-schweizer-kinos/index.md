@@ -1,5 +1,5 @@
 +++
-title = "Die Zukunft der Schweizer Kinos"
+title = "Vom Aussterben bedroht: Die Schweizer Kinos"
 date = "2023-05-24"
 draft = true
 pinned = false
