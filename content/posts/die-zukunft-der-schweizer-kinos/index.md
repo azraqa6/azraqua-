@@ -31,7 +31,7 @@ René Gerber ist Generalsekretär von ProCinema. Er erinnert sich besonders gern
 
 {{</box>}}
 
-{{</box>}}
+{{<box>}}
 
 ### Interview mit René Gerber, Generalsekretär von der Procinema Schweiz
 
