@@ -21,11 +21,17 @@ Da stellt sich natürlich die Frage: Sind Multiplex-Kinos wie das Pathé Westsid
 >
 > \-René Gerber
 
+{{<box>}}
+
 ### Der Schweizerische Kinoverband ProCinema 
 
 Das ProCinema ist der Schweizer Verband für Kino und Filmverleih. Der Verband beschäftigt sich mit den politischen und wirtschaftlichen Aspekten der Schweizer Kinobranche. Das ProCinema ist zuständig, allerlei Informationen über die Schweizer Kinobranche zu sammeln und diese Daten in Form von Statistiken und Ranglisten schweizweit zu publizieren. Eine weitere Aufgabe von ProCinema ist, die Kinokultur in die Politik einzubinden, indem der Verband bei Politiker*innen Aufmerksamkeit auf das Thema erregt.
 
 René Gerber ist Generalsekretär von ProCinema. Er erinnert sich besonders gerne an seinen sechsten Geburtstag, an dem er bereits seine Leidenschaft zum Film entdeckte. Er erzählt: “Da hat meine Mutter mich ins Kino gefahren und im Kino lief der Film Dschungel Buch."  Damals reichte ein Fünf-Fränkler für den Kinoeintritt und ein Eis in der Pause. Seine Liebe zum Kino vertiefte sich in der Lehre, da das Kino früher, laut René, ein Fenster zu fremden Welten war: “Damals gab’s in der Schweiz einen Fernsehsender, kein Internet und das Kino war eine Möglichkeit, auch in andere Länder reinzusehen.“ Ab dem Jahr 1989 arbeitete er in Zürich in einem Kino. Angefangen hat er als Operateur, Kassierer und Betriebsleiter. Dann wurde er Geschäftsführer einer Kinokette in Bern und seit 2002 hat er seine Karriere bei ProCinema angefangen. Von dort aus stieg er zum Generalsekretär auf. 
+
+{{</box>}}
+
+{{</box>}}
 
 ### Interview mit René Gerber, Generalsekretär von der Procinema Schweiz
 
@@ -52,6 +58,8 @@ Das ist kein einfaches Thema. In der Schweiz gibt es einen Verfassungsartikel, d
 **Können Sie schlussendlich noch einmal zusammenfassen, wie die Kinos Ihrer Meinung nach idealerweise zukünftig aussehen sollen?** 
 
 Kennen Sie den Ort Schöftland? Dort gibt es seit etwa zehn Jahren ein Kino, das Cinema8. Es ist ein Fünfplex, der Komplex hat also fünf Säle. Er hat drei Restaurants, vier Bars, eine Bowling-Alley, eine Go-Kart-Bahn vor dem Kinosaal und es hat ein Hotel, das in gewissen Zimmern direkten Zugang zum Kinosaal anbietet. Man kann dort einen ganzen Tag sich total gut unterhalten. So könnte Kino aussehen. So kann man das Kino zum Treffpunkt machen, zu dem man eben auch hingeht, wenn man nicht nur Filme schauen will. Um etwas zu trinken und Freunde zu treffen.  
+
+{{</box>}}
 
 ### Ein Kino ohne Konsumzwang
 
