@@ -21,7 +21,7 @@ Da stellt sich natürlich die Frage: Sind Multiplex-Kinos wie das Pathé Westsid
 
 > *“Die Kosten sind einfach zu hoch für diese kleinen Kinos”* 
 >
-> \-René Gerber
+> René Gerber
 
 {{<box>}}
 
@@ -109,7 +109,7 @@ Und genau das, denken wir, macht den grossen Unterschied zum isolierten Streamin
 
 > „Nicht zuhause auf dem Sofa alleine Streamingdienste schauen, sondern mit anderen Leuten zusammen etwas zu erleben.“
 >
-> \-René Gerber
+> René Gerber
 
 Wir denken, diesen sozialen Aspekt weiter zu fördern, so wie es das Kino in der Reitschule schon macht, kann das weitere Kinosterben verhindern. Es gibt viele Arten, diese Eventisierung zu fördern. Konkrete Beispiele in Bern sind Diskussionsrunden, Interviews mit Schauspielern und Regisseuren, themenbezogene Referate und Filmgespräche. An anderen Orten in der Schweiz verbindet man das Kinoerlebnis mit Gastroangeboten und Hotels (BlueCinema in Chur, Cinema8 in Schöftland) oder führt ‘Filme on demand’ ein, bei dem die Zuschauer selbst direkt über die Filmauswahl abstimmen können (theoneswelove.ch) 
 
