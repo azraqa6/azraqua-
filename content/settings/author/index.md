@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Selen Kaya "
-image = "/media/6927fd3c-932a-4f0e-a7de-a6192bb790bc.jpeg"
+image = "/media/6d85d7a9-7b0e-47e6-9671-7340472c383d.jpeg"
 url = "/about/"
 +++
