@@ -6,6 +6,7 @@ pinned = false
 tags = ["Woyzeck", "Blog", "Deutsch", "Literatur"]
 image = "media.media.e9e0d90e-faa0-474d-8efd-9b66c3636170.original1024.jpg"
 description = ""
+footnotes = "[https://chat.openai.com](https://chat.openai.com/)\n\n<https://www.walkfree.org/what-is-modern-slavery/>\n\n<https://www.antislavery.org/slavery-today/modern-slavery/>\n\n<https://www.walkfree.org/global-slavery-index/>"
 +++
 Im Rahmen des Deutunterrichts haben wir das Drama «Woyzeck» von Georg Büchner, der 1879 veröffentlicht wurde, gelesen. Aufgrund von Büchners frühem Tod erscheint das Buch als Fragment. Dies bedeutet, dass die Reihenfolge der Szenen nicht klar ist und das Drama keinen eindeutigen Schluss hat. In der Klasse begannen wir damit, das Drama gemeinsam zusammenzufassen. Anschliessend analysierten wir die Charaktere und ihre Beziehungen zueinander, und schließlich tauchten wir tiefer in die Analyse einzelner Szenen und Figuren. 
 
