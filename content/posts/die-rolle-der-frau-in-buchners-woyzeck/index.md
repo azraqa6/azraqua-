@@ -18,12 +18,22 @@ Obwohl Woyzeck Marie finanziell so gut es geht unterstützt, reicht es kaum, um 
 
 Der Unterschied zwischen Marie und Woyzeck liegt darin, dass obwohl Woyzeck psychisch krank ist, er dennoch einen gewissen Stand und Privilegien in der Gesellschaft hat. Zum einen ist er ein Mann in einer patriarchalen Gesellschaft und zum anderen hat er die Möglichkeit überhaupt, irgendwo zu arbeiten. 
 
+Maries Situation ist gut mit Situationen mancher heutiger Frauen vergleichbar. Viele Frauen geraten in Situationen, in denen sie keine Kontrolle mehr über ihr eigenes Leben und ihre eigenen Entscheidungen haben. Persönliche Umstände wie Armut können ausgenutzt werden, um Frauen in gefährliche Situationen mit falschen Versprechen zu bringen, wie die Zwangsprostitution mit Versprechen auf Geld. Die Schwierigkeit der Armut und die Notwendigkeit von Geld können viele Menschen in Situationen bringen, in denen sie sexuell ausgebeutet werden. Dies ist nichts Ungewöhnliches. Laut dem Global Slavery Index lebten 49,6 Millionen Menschen auf der ganzen Welt im Jahr 2021 in moderner Sklaverei. Die moderne Sklaverei umfasst diverse Praktiken, wie Zwangsarbeit, Zwangsheirat, Sklaverei und Menschenhandel. Im Allgemeinen handelt es sich dabei um Ausbeutungssituationen, die eine Person aufgrund von Gewalt, Nötigung oder Machtmissbrauch nicht verlassen kann. 12.7% der 49,6 Millionen Menschen in moderner Sklaverei sind von sexueller Ausbeutung betroffen.
 
+Dazu zeigt die Global Slavery Index, dass solche Ausbeutungen grösstenteils in Entwicklungsländern stattfinden. Nordkorea steht auf erster Stelle mit der höchsten Verbreitung der modernen Sklaverei. Im Jahre 2018 waren 2.6 Millionen Menschen in Nordkorea Opfer der modernen Versklavung. Davon sind viele Frauen betroffen. Aufgrund wirtschaftlicher Not gehen sie Verträge mit Menschenhändlern ein, die ihnen Versprechen auf Arbeitsmöglichkeiten geben, die dann oft in Zwangsprostitution enden. 
+
+ Im Gegensatz zu Nordkorea ist Maries Situation nicht so bedrohlich wie Zwangsprostitution. Aber wenn sie die Möglichkeit gehabt hätte, auf andere Weise Geld zu verdienen, z.B. durch einen Job, wäre sie sicherlich darauf eingegangen. Im 19.Jahrhundert hatten Frauen sehr wenige Rechte und wurden der Rolle als Mutter und Hausfrau zugeschrieben. Sie hatte also keine Möglichkeit anders sozial aufzusteigen. 
+
+Es scheint, als wäre Marie zu nichts gezwungen worden. Doch der Druck der Armut, das Verlangen nach Geld und die Macht des Tambourmajors darauf, ihren sozialen Stand zu verbessern, drängen sie indirekt dazu, eine Affäre mit ihm einzugehen. So hat auch der Tambourmajor erreicht, dass er eine Partnerin hat, mit der er sein Vergnügen ausleben kann.
+
+ Hiermit möchte ich zeigen, dass Ausbeutung und Missbrauch auch heute noch als Lösung für soziale Probleme genutzt werden.
+
+Wir können feststellen: Es war noch nie so wichtig wie jetzt, sich für die Menschenrechte einzusetzen. 
 
 
 
 {{<box>}}
 
-sjhdfv
+
 
 {{</box>}}
