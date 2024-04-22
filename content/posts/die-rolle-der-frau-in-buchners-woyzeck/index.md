@@ -32,6 +32,12 @@ Wir können feststellen: Es war noch nie so wichtig wie jetzt, sich für die Men
 
 {{<box>}}
 
+Ich fand, dass die Rolle der Frau in "Woyzeck" im Unterricht eher wenig behandelt wurde. Deshalb wollte ich in meinem Blog einen Bezug zu Maries Rolle in der heutigen Zeit herstellen. Am Anfang hatte ich jedoch keine Ideen, weshalb ich im ersten Schritt die KI (ChatGPT) als Hilfsmittel benutzt habe. Ich habe nach der Aktualität von Maries Rolle in der heutigen Zeit gefragt. Die Antwort der KI war mir zu allgemein, weshalb ich selbst nachdenken musste und versuchte, Maries Charakterzüge mithilfe meiner Unterrichtsnotizen und Internetseiten zu analysieren. So entstand mein aktuelles Thema. Den Text habe ich größtenteils allein verfasst. An den Stellen, an denen ich merkte, dass meine Gedanken unklar beschrieben waren, nutzte ich die KI. Ich gab der KI den Auftrag, diese Textstellen zu "verschönern". Außerdem nutzte ich die KI, um Grammatik- und Kommafehler zu vermeiden und die Kohärenz zu verbessern.
 
+Zusätzlich habe ich die KI für die Suche nach Statistiken der modernen Sklaverei und deren Quellen genutzt. Bei den englischsprachigen Internetseiten nutzte ich ein Übersetzungstool (DeepL), um die Informationen ins Deutsch zu übersetzten. 
+
+Meine Unterrichtsnotizen halfen mir, eine kurze Zusammenfassung des Dramas und eine Einführung des Themas zu geben.  
+
+Ich bin ziemlich zufrieden mit meinem Text, weil er für mich wirklich ein persönliches Produkt ist, das die Themen enthält, die ich für wichtig halte. Während dieses Schreibprozesses habe ich über mich selbst herausgefunden, dass es mir immer noch schwerfällt, meine Gedanken in Worte zu fassen und dies zu Schreibblockaden führen kann. Daher war ich froh, dass ich KI als Hilfsmittel nutzen durfte. 
 
 {{</box>}}
