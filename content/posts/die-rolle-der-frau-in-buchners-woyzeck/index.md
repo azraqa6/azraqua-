@@ -6,7 +6,7 @@ pinned = false
 tags = ["Woyzeck", "Blog", "Deutsch", "Literatur"]
 image = "media.media.e9e0d90e-faa0-474d-8efd-9b66c3636170.original1024.jpg"
 description = ""
-footnotes = "[https://chat.openai.com](https://chat.openai.com/)\n\n<https://www.walkfree.org/what-is-modern-slavery/>\n\n<https://www.antislavery.org/slavery-today/modern-slavery/>\n\n<https://www.walkfree.org/global-slavery-index/>"
+footnotes = "**Quellen**\n\n[https://chat.openai.com](https://chat.openai.com/)\n\n<https://www.walkfree.org/what-is-modern-slavery/>\n\n<https://www.antislavery.org/slavery-today/modern-slavery/>\n\n<https://www.walkfree.org/global-slavery-index/>\n\n<https://www.nzz.ch/international/nordkorea-neuer-bericht-zeigt-ausmass-moderner-sklaverei-nzz-ld.1404845>"
 +++
 Im Rahmen des Deutunterrichts haben wir das Drama «Woyzeck» von Georg Büchner, der 1879 veröffentlicht wurde, gelesen. Aufgrund von Büchners frühem Tod erscheint das Buch als Fragment. Dies bedeutet, dass die Reihenfolge der Szenen nicht klar ist und das Drama keinen eindeutigen Schluss hat. In der Klasse begannen wir damit, das Drama gemeinsam zusammenzufassen. Anschliessend analysierten wir die Charaktere und ihre Beziehungen zueinander, und schließlich tauchten wir tiefer in die Analyse einzelner Szenen und Figuren. 
 
@@ -29,8 +29,6 @@ Es scheint, als wäre Marie zu nichts gezwungen worden. Doch der Druck der Armut
  Hiermit möchte ich zeigen, dass Ausbeutung und Missbrauch auch heute noch als Lösung für soziale Probleme genutzt werden.
 
 Wir können feststellen: Es war noch nie so wichtig wie jetzt, sich für die Menschenrechte einzusetzen. 
-
-
 
 {{<box>}}
 
