@@ -1,7 +1,7 @@
 +++
-title = "Die Rolle der Frau in Büchners \"Woyzeck\" "
+title = "Die Rolle der Frau in Woyzeck und ihre zeitlose Aktualität in der Gesellschaft"
 date = "2024-04-22"
-draft = true
+draft = false
 pinned = false
 tags = ["Woyzeck", "Blog", "Deutsch", "Literatur"]
 image = "media.media.e9e0d90e-faa0-474d-8efd-9b66c3636170.original1024.jpg"
