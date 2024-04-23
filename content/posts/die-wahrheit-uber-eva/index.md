@@ -1,5 +1,5 @@
 +++
-title = "Patriarchat im Wandel: Die Vergangenheit und die Rolle der Medienindustrie"
+title = "Die Vergangenheit des Patriarchats und seine Rolle in der Medienindustrie"
 date = "2024-04-21"
 draft = true
 pinned = false
