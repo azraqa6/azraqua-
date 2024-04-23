@@ -1,5 +1,5 @@
 +++
-title = "Die Wahrheiten der Ungerechtigkeit der Frauen in der Medienindustrie"
+title = "Patriarchat im Wandel: Die Vergangenheit und die Rolle der Medienindustrie"
 date = "2024-04-21"
 draft = true
 pinned = false
