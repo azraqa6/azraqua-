@@ -1,10 +1,11 @@
 +++
 title = "Die Vergangenheit des Patriarchats und seine Rolle in der Medienindustrie"
 date = "2024-04-21"
-draft = true
+draft = false
 pinned = false
-tags = ["Deutsch", "DieWahrheitüberEva", "Blog"]
+tags = ["Deutsch", "Blog", "DieWahrheitüberEva"]
 image = "geschlechterungleichheit-ungleichheit-von-mann-und-frau-zahlung-von-ungerechtigkeit-diskriminierung-aufgrund-des-weiblichen-gehaltsgeschaefts_53562-12266.jpg.avif"
+footnotes = "**Quellen**\n\n[https://chat.openai.com](https://chat.openai.com/)\n\n<https://www.deepl.com/translator>\n\n<https://www.srf.ch/audio/perspektiven/die-wahrheit-ueber-eva?id=11870892>\n\n<https://www.equalpayday.de/wp-content/uploads/2021/11/Themenblatt-6-Soziale-Medien.pdf>"
 +++
 Unsere Gesellschaft kennt nur eine Welt, in der ungleiche Behandlung der Geschlechter, wobei Frauen oft als das schwächere Geschlecht angesehen werden, etwas Natürliches ist. Fakt ist: In unserer Welt herrscht eine wesentliche Ungleichheit in den Geschlechterrollen, unabhängig davon, ob man diese Normen unterstützt oder nicht. Im Rahmen des Deutschunterrichts haben wir ein Radiogespräch über das Buch «Die Wahrheit über Eva» von den Autoren Carel von Schaik und Kai Michel analysiert. Unser Ziel war es, die Gesamtbotschaft des Buches zu verstehen und die Zusammenhänge der verschieden Aussagen nachzuvollziehen. Im Buch wird der Frage nachgegangen, ab wann und weshalb die Ungleichheit zwischen Frau und Mann angefangen hat. Die beiden Autoren gingen dieser Frage nach, indem sie in der Bibel die Wahrheit über Eva mit evolutionären, ethnologischen, und historischen Perspektiven herausfinden wollten.
 
@@ -26,6 +27,8 @@ Unsere Welt scheint durch hitzige und aktuelle Debatten über die Ungerechtigkei
 
 {{<box>}}
 
-dfd
+Für die Auswahl meines Themas durchstöberte ich meine Notizen aus den vergangenen Schuljahren gegangen und entschied mich letztendlich für das Thema der «Wahrheit über Eva». Ich habe meine Unterrichtsnotizen in die KI (ChatGPT) eingegeben, um Ideen zu erhalten, wie ich zum Thema einen Bezug schaffen kann. Die Antwort der KI war mir zu offen. Deshalb entschied ich mich, das Thema mit einem verwandten Thema aus dem Englischunterricht zu verbinden. Dadurch kam ich auf die Thematik der Medienindustrie. Ich habe meinen Text grösstenteils allein geschrieben, ihn aber von der KI für Grammatik -und Kommafehler korrigieren lassen. Dazu habe ich auch meine Texte von der KI «verschönern» lassen, jedoch nur die Korrekturen übernommen, die ich für sinnvoll hielt. Für den ersten Teil des Textes habe ich komplett auf meine Unterrichtsnotizen im Deutsch zurückgegriffen. Für den zweiten Teil des Textes nutzte ich meine Notizen über das Buch, das ich im Englischunterricht behandelt habe. Hierfür habe ich mir ein Übersetzungstool (DeepL) zur Hilfe genommen. Anschliessend habe ich versucht, meine Aussagen durch Studien (Quelle) auf dem Internet zu bestätigen, jedoch haben mir die Erklärungen der KI manchal auch sehr gut geholfen. 
+
+Ich hatte in diesem Schreibprozess weniger Schreibblockaden als üblich, da ich denke, dass ich mich bereits mit diesem Thema im anderen Unterricht befasst habe. Dadurch fiel es mir leichter, meine Gedanken zu sortieren. Im Großen und Ganzen bin ich zufrieden mit meinem Text, obwohl ich das Gefühl habe, dass es Verbesserungspotenzial gibt. Dafür hat jedoch die Zeit nicht gereicht. 
 
 {{</box>}}
