@@ -1,7 +1,7 @@
 +++
 title = "Ein Vergleich von Isolation und Ausgrenzung zwischen Kafkas \"Die Verwandlung\" und der LGBTQ-Community"
 date = "2024-05-27"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Blog", "Kafka", "DieVerwandlung", "LGBTQ+"]
 image = "literatur-kafka-3.jpg"
