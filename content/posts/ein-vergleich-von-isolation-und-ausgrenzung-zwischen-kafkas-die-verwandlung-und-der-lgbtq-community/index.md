@@ -39,3 +39,13 @@ Gregors Situation der Isolation im Rahmen sozialer Normen hat mich stark an die 
 Im Großen und Ganzen bin ich mit meinem Text sehr zufrieden. Mit mehr Zeit könnte ich jedoch meine Unterrichtsnotizen zur Erzählung noch präziser auf den Punkt bringen.
 
 {{</box>}}
+
+## Quellen
+
+<https://mcusercontent.com/6c9ae273ae267809840328351/files/b4f2fe51-9a5e-5899-b577-b2e6e4b4970e/hatecrime_bericht_2023_DE.pdf>
+
+<https://www.srf.ch/news/schweiz/zunahme-um-fast-50-prozent-angriffe-auf-lgbtiq-menschen-in-der-schweiz-auf-neuem-hoechststand>
+
+ https://www.sgb.ch/themen/gleichstellung/detail/eine-diskriminierungsfreie-arbeitswelt-auch-fuer-lgbt
+
+<https://vr-room.ch/wp-content/uploads/2018/07/literatur-kafka-3.jpg>
