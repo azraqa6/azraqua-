@@ -1,5 +1,5 @@
 +++
-title = "Aufwachsen zwischen zwei Herkünften: Ein Vergleich zwischen mir und Recha in Nathan der Weise"
+title = "Aufwachsen zwischen zwei Herkünften: Ein Vergleich mit Recha aus Nathan der Weise"
 date = "2024-10-31"
 draft = false
 pinned = false
