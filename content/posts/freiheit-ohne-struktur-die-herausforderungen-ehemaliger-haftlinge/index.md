@@ -5,8 +5,12 @@ draft = false
 pinned = false
 tags = ["deutsch", "blog", "berlinalexanderplatz", "döblin"]
 image = "43870442_906.jpg"
-footnotes = "https://chatgpt.com\n\nhttps://hub.hslu.ch/soziale-arbeit/wiedereingliederung-von-ehemaligen-gefangenen-in-den-arbeitsmarkt/"
+footnotes = "https://chatgpt.com\n\nhttps://hub.hslu.ch/soziale-arbeit/wiedereingliederung-von-ehemaligen-gefangenen-in-den-arbeitsmarkt/ \n\nDas Bild: https://www.dw.com/de/alfred-döblin-berlin-alexanderplatz/a-44408316"
 +++
+
+
+![Berlin Alexanderplatz](43870442_906.jpg)
+
 Im Rahmen des Deutschunterrichts haben wir den Roman *Berlin Alexanderplatz* von Alfred Döblin gelesen. Das Buch berichtet von dem Protagonisten Franz Biberkopf, der nach seiner Haftentlassung versucht, ein neues Leben zu beginnen, nachdem er wegen früherer Straftaten im Gefängnis saß. Im Zentrum steht die Frage, wie er mit den Herausforderungen seiner Freiheit in der Großstadt Berlin zurechtkommt. In diesem Blogartikel werde ich untersuchen, wie sich unsere Gesellschaft um ehemalige Häftlinge kümmert und welche Unterstützungssysteme vorhanden sind, um ihnen zu helfen, nach der Entlassung wieder Fuß zu fassen. Dabei ziehe ich Parallelen zwischen Franz' Erfahrungen und den realen Schwierigkeiten, mit denen viele ehemalige Straftäter heute konfrontiert sind.
 
 ## Unterrichtsbesprechung
