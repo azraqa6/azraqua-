@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["18esiècel", "siècledeslumières", "Femmes", "Féminisme", ""]
 image = "original.jpg.avif"
-footnotes = "<https://studyflix.de/geschichte/franzoesische-revolution-3966>\n\n **<https://essentiels.bnf.fr/fr/image/04b3c9c5-f455-47d8-b889-59e546017fb8-bravoure-femmes-parisiennes-la-journee-5-octobre-1789>**\n\n**<https://www.youtube.com/watch?v=bI5JH3t8pGA>** \n\n**<https://social.shorthand.com/flotoooo/3yIcodJuqn/les-artisans-francais-de-la-lutte-feministe>**  \n\nhttps://de.wikipedia.org/wiki/Erklärung_der_Menschen-_und_Bürgerrechte\n\n**<https://essentiels.bnf.fr/fr/album/67c35ad2-f43f-46f6-818e-706d7f987ad2-salons-18e-siecle>**\n\n** <https://www.retronews.fr/journaux/etrennes-nationales-des-dames>**\n\nhttp://www.thucydide.com/realisations/comprendre/femmes/femmes1.htm\n\n https://www.ichfrau.com/frau-gesellschaft/keine-franzoesische-revolution-ohne-frauen/12131\n\nhttps://fr.wikipedia.org/wiki/Presse_féminine\n\nhttps://www.retronews.fr/journal/la-feuille-du-jour/28-jun-1791/1/d1f42274-7834-4953-a3cf-de5f1a34f177\n\nhttps://classes.bnf.fr/essentiels/albums/femmes/index.htm\n\nhttps://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/declaration-des-droits-de-la-femme-et-de-la-citoyenne-olympe-de-gouges#:~:text=En%201791%2C%20Olympe%20de%20Gouges,des%20femmes%20pour%20l'égalité."
+footnotes = "<https://studyflix.de/geschichte/franzoesische-revolution-3966>\n\n <https://essentiels.bnf.fr/fr/image/04b3c9c5-f455-47d8-b889-59e546017fb8-bravoure-femmes-parisiennes-la-journee-5-octobre-1789>\n\n<https://www.youtube.com/watch?v=bI5JH3t8pGA> \n\n<https://social.shorthand.com/flotoooo/3yIcodJuqn/les-artisans-francais-de-la-lutte-feministe>  \n\nhttps://de.wikipedia.org/wiki/Erklärung_der_Menschen-_und_Bürgerrechte\n\n<https://essentiels.bnf.fr/fr/album/67c35ad2-f43f-46f6-818e-706d7f987ad2-salons-18e-siecle>\n\n <https://www.retronews.fr/journaux/etrennes-nationales-des-dames>\n\nhttp://www.thucydide.com/realisations/comprendre/femmes/femmes1.htm\n\n https://www.ichfrau.com/frau-gesellschaft/keine-franzoesische-revolution-ohne-frauen/12131\n\nhttps://fr.wikipedia.org/wiki/Presse_féminine\n\nhttps://www.retronews.fr/journal/la-feuille-du-jour/28-jun-1791/1/d1f42274-7834-4953-a3cf-de5f1a34f177\n\nhttps://classes.bnf.fr/essentiels/albums/femmes/index.htm\n\nhttps://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/declaration-des-droits-de-la-femme-et-de-la-citoyenne-olympe-de-gouges#:~:text=En%201791%2C%20Olympe%20de%20Gouges,des%20femmes%20pour%20l'égalité."
 +++
 Le XVIIIe siècle, le siècle des lumières en d'autres termes, a fait beaucoup pour le développement de l'égalité. C'est certainement le point où les droits des femmes commencent à s'améliorer, n'est-ce pas ? C'est plus difficile qu'on ne le pense... Cette époque est très turbulente, enrichissante, mais aussi pleine de déceptions pour les droits des femmes. La question qui se pose maintenant est s'il y a eu des progrès en droits des femmes au XVIIIe siècle. Si oui, comment cela a aidé les femmes à améliorer l'égalité des droits ? 
 
@@ -15,7 +15,7 @@ Le XVIIIe siècle, le siècle des lumières en d'autres termes, a fait beaucoup 
 
 Mon idée dans cet article de blog est de montrer les changements dans les droits des femmes au 18ème siècle. Je veux montrer un point de vue général sur le monde turbulent du 18ème siècle. Alors, mon objectif est de montrer comment les femmes ont décidé de défendre leurs droits avec la Révolution, comment elles y sont parvenues ou non, et quelles ont été les résultats de leurs efforts. Pour ce faire, je veux d'abord présenter de manière générale ce qu'était l'image des femmes au XVIIIe siècle. Ensuite, comment celle-ci a évolué, avec une description des mouvements des femmes contre l'injustice. Puis, à la fin, je comparerai les conséquences de l'activisme des femmes à la fin du XVIIIe siècle et leur degré de succès.
 
-(La réflexion sur le feedback et la première version du blog est dans l'onenote (Selen Kaya --> littérature --> 18e siècle))
+(La réflexion sur le feedback et la première version du blog est dans l'onenote (Selen Kaya --> litérature --> 18e siècle))
 
 {{</box>}}
 
@@ -36,8 +36,6 @@ Au 18e siècle, la société était encore marquée par certains mythes chrétie
 Même si le 18e siècle a été le siècle des Lumières et une époque importante pour la science et l'égalité, ce n'était pas le cas pour la moitié de l'humanité - les femmes. Toutes les choses pour lesquelles on se battait pour l'égalité, la raison et la tolérance envers la religion et les autres ne concernaient pas les femmes - c'est très contradictoire, non ? Bien sûr, il y a eu quelques exceptions, car tous les hommes de la société n'étaient pas opposés aux droits des femmes. Il y avait des hommes, comme le Marquis de Condorcent, qui reconnaissaient que l'inégalité entre les hommes et les femmes était un problème.
 
 > "*Je crois que la loi ne devrait exclure les femmes d'aucune place. \[…] Songez qu'il s'agit des droits de la moitié du genre humain*" Marquis de Condorcent 1787
-
-
 
 ## Les mouvements féminins pendant la Révolution 
 
