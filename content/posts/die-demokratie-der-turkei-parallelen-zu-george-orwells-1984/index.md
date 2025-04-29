@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["Demokratie", "Türkei", "Orwell", "1984", "Proteste"]
 image = "250325-turkey-protests-mb-0825-4d42c7.webp"
+footnotes = "**Quellen**\n\nhttps://chatgpt.com --> für die sprachliche Korrektur des Textes \n\nhttps://www.theguardian.com/news/2025/apr/03/turkish-democracy-in-turmoil-inside-the-4-april-guardian-weekly"
 +++
 Im Englischunterricht letztes Jahr haben wir den Roman 1984 von George Orwell gelesen. Dabei analysierten wir das Werk, indem wir die darin dargestellte Überwachung mit realen und aktuellen Begebenheiten wie totalitäre Staaten oder Unternehmen wie Shein verglichen. In diesem Blog werde ich ebenfalls George Orwells 1984 mit der aktuellen Situation in der Türkei vergleichen – die türkische Demokratie. 
 
